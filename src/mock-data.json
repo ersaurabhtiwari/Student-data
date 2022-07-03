@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "fullName": "Robert Fox",
+      "class": "8th",
+      "result": "Passed",
+      "score": "78/100",
+      "grade": "Excellent"
+    },
+    {
+      "id": 2,
+      "fullName": "Ralph Edwards",
+      "class": "7th",
+      "result": "Failed",
+      "score": "20/100",
+      "grade": "Poor"
+    },
+    {
+      "id": 3,
+      "fullName": "Esther Howard",
+      "class": "9th",
+      "result": "Passed",
+      "score": "60/100",
+      "grade": "Average"
+    },
+    {
+      "id": 4,
+      "fullName": "Eleanor Pena",
+      "class": "8th",
+      "result": "Passed",
+      "score": "50/100",
+      "grade": "Average"
+    },
+    {
+      "id": 5,
+      "fullName": "Arlene McCoy",
+      "class": "7th",
+      "result": "Passed",
+      "score": "85/100",
+      "grade": "Excellent"
+    },
+    {
+      "id": 5,
+      "fullName": "Marvin McKinney",
+      "class": "9th",
+      "result": "Failed",
+      "score": "25/100",
+      "grade": "Poor"
+    },
+    {
+      "id": 5,
+      "fullName": "Wade Warren",
+      "class": "7th",
+      "result": "Passed",
+      "score": "90/100",
+      "grade": "Excellent"
+    }
+  ]
